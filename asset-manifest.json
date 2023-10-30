@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/seegyptupdate/static/css/main.4fb9663b.css",
+    "main.css": "/seegyptupdate/static/css/main.b35fb60d.css",
     "main.js": "/seegyptupdate/static/js/main.d5749865.js",
     "static/js/787.a60d0630.chunk.js": "/seegyptupdate/static/js/787.a60d0630.chunk.js",
     "static/media/c8.jpg": "/seegyptupdate/static/media/c8.e7ae8652bf1f61333bc1.jpg",
@@ -80,12 +80,12 @@
     "static/media/i21.jpg": "/seegyptupdate/static/media/i21.ef9bf3c7cec730eda986.jpg",
     "static/media/u11.jpg": "/seegyptupdate/static/media/u11.46a1285c3f3b51478b05.jpg",
     "index.html": "/seegyptupdate/index.html",
-    "main.4fb9663b.css.map": "/seegyptupdate/static/css/main.4fb9663b.css.map",
+    "main.b35fb60d.css.map": "/seegyptupdate/static/css/main.b35fb60d.css.map",
     "main.d5749865.js.map": "/seegyptupdate/static/js/main.d5749865.js.map",
     "787.a60d0630.chunk.js.map": "/seegyptupdate/static/js/787.a60d0630.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fb9663b.css",
+    "static/css/main.b35fb60d.css",
     "static/js/main.d5749865.js"
   ]
 }
