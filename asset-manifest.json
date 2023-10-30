@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/seegyptupdate/static/css/main.2b5d048c.css",
-    "main.js": "/seegyptupdate/static/js/main.64e516c3.js",
+    "main.css": "/seegyptupdate/static/css/main.4fb9663b.css",
+    "main.js": "/seegyptupdate/static/js/main.d5749865.js",
     "static/js/787.a60d0630.chunk.js": "/seegyptupdate/static/js/787.a60d0630.chunk.js",
     "static/media/c8.jpg": "/seegyptupdate/static/media/c8.e7ae8652bf1f61333bc1.jpg",
     "static/media/u5.jpg": "/seegyptupdate/static/media/u5.5ba0f35e1ce562357815.jpg",
@@ -32,6 +32,7 @@
     "static/media/u14.jpg": "/seegyptupdate/static/media/u14.69dd83e07687910b5fa5.jpg",
     "static/media/i20.jpg": "/seegyptupdate/static/media/i20.0af63c36ad48a5ffa42f.jpg",
     "static/media/u16.jpg": "/seegyptupdate/static/media/u16.4ddcd123f530694f62fd.jpg",
+    "static/media/Logo.png": "/seegyptupdate/static/media/Logo.b9567a338d08f175e622.png",
     "static/media/u6.jpg": "/seegyptupdate/static/media/u6.5e5cc9f8bd3233e06f87.jpg",
     "static/media/u2.jpg": "/seegyptupdate/static/media/u2.fe6525af9c5fc9740e5f.jpg",
     "static/media/p3.jpg": "/seegyptupdate/static/media/p3.c2eed0b927a89d53ff27.jpg",
@@ -79,12 +80,12 @@
     "static/media/i21.jpg": "/seegyptupdate/static/media/i21.ef9bf3c7cec730eda986.jpg",
     "static/media/u11.jpg": "/seegyptupdate/static/media/u11.46a1285c3f3b51478b05.jpg",
     "index.html": "/seegyptupdate/index.html",
-    "main.2b5d048c.css.map": "/seegyptupdate/static/css/main.2b5d048c.css.map",
-    "main.64e516c3.js.map": "/seegyptupdate/static/js/main.64e516c3.js.map",
+    "main.4fb9663b.css.map": "/seegyptupdate/static/css/main.4fb9663b.css.map",
+    "main.d5749865.js.map": "/seegyptupdate/static/js/main.d5749865.js.map",
     "787.a60d0630.chunk.js.map": "/seegyptupdate/static/js/787.a60d0630.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b5d048c.css",
-    "static/js/main.64e516c3.js"
+    "static/css/main.4fb9663b.css",
+    "static/js/main.d5749865.js"
   ]
 }
